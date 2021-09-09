@@ -37,7 +37,7 @@ bool PlayGame(int Difficulty)
     }
     else
     {
-        cout << "Your code was wrong...The Bomb exploded ***";
+        cout << "Your code was wrong...The Bomb exploded boommmmmm ***";
         return false;
     }
 }
